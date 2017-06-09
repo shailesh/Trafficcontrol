@@ -1,0 +1,6 @@
+only no parking symbol
+vehicle on stop line
+only parking symbol
+vehicle behind stop line
+vehicle with no parking symbol
+vehicle with parking symbol
